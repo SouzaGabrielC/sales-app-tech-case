@@ -1,0 +1,24 @@
+{
+  "sellers": [
+    {
+      "id": 1,
+      "name": "Gabriel"
+    },
+    {
+      "id": 2,
+      "name": "Lucas"
+    },
+    {
+      "id": 3,
+      "name": "Test"
+    },
+    {
+      "id": 4,
+      "name": "Seller 4"
+    },
+    {
+      "id": 5,
+      "name": "Best Seller"
+    }
+  ]
+}

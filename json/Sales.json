@@ -1,0 +1,1 @@
+{"sales":[{"id":3,"seller":{"id":2,"name":"Lucas"},"customerName":"Joe","date":"2021-08-10T03:00:00.000Z","itemName":"PS5","value":4999.9},{"id":2,"seller":{"id":1,"name":"Gabriel"},"customerName":"Test","date":"2021-03-05T03:00:00.000Z","itemName":"TV","value":3000}],"lastId":3}
