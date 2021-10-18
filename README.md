@@ -37,7 +37,7 @@ only developer working on it?
 
 ## 1. Using the binary 
 
-You can run the program using the binaries for you system (Mac, Windows, Linux) located in the Releases of this repository.
+You can run the program using the binaries for you system (Mac, Windows, Linux) located in the [latest release of this repository](https://github.com/SouzaGabrielC/shopee-tech-test/releases/latest).
 
 Make sure you have the /json folder at the same level as you binary.
 
