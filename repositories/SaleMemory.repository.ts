@@ -57,7 +57,7 @@ export default class SaleMemoryRepository implements ISaleRepository{
     }
     
     const sale = this.sales[saleIndex]
-    this.sales.splice(saleIndex)
+    this.sales.splice(saleIndex, 1)
     return sale
   }
 }

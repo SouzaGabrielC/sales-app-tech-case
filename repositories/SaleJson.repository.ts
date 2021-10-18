@@ -66,7 +66,7 @@ export default class SaleJsonRepository implements ISaleRepository{
     }
     
     const sale = sales[saleIndex]
-    sales.splice(saleIndex)
+    sales.splice(saleIndex, 1)
 
     this.updateFile(sales, lastId)
     return sale
