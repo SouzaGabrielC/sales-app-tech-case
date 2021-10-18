@@ -3,7 +3,7 @@
   "engines": {
     "node": "14.17.6"
   },
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shopee Technical Test ",
   "main": "dist/app.js",
   "bin": "dist/app.js",
