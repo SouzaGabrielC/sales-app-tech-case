@@ -48,7 +48,7 @@ export default class ListSales {
       })
     }
 
-    sellersData.sort((prev, next) => next - prev)
+    sellersData.sort((prev, next) => next.amountSold - prev.amountSold)
     console.log('')
     cli.table(sellersData, {
       id: {
